@@ -39,16 +39,21 @@ NetRecon is intentionally **detect-and-report only**. It does not exploit target
 - **Local operation:** the application and its historical database remain on the operator's system.
 
 ## Screenshots
+### Command Center
+docs/screenshots/pics/command-center.png
 
-> Add final screenshots before publishing the release.
+### Asset Explorer
+docs/screenshots/pics/asset-explorer.png
 
-| Command Center | Asset Intelligence |
-|---|---|
-| `https://github.com/fahimnafis2025/NetRecon/blob/main/docs/screenshots/asset-explorer.png` | `docs/screenshots/asset-explorer.png` |
+### Change Explorer
+docs/screenshots/pics/change-explorer.png
 
-| Change Explorer | Risk Overview |
-|---|---|
-| `docs/screenshots/change-explorer.png` | `docs/screenshots/risk-overview.png` |
+### Risk Overview
+![Risk Overview](docs/screenshotsew.png
+
+### Asset Timeline
+
+docs/screenshots/pics/timeline.png
 
 ## Features
 
