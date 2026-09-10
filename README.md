@@ -44,7 +44,7 @@ NetRecon is intentionally **detect-and-report only**. It does not exploit target
 
 | Command Center | Asset Intelligence |
 |---|---|
-| `docs/screenshots/command-center.png` | `docs/screenshots/asset-explorer.png` |
+| `https://github.com/fahimnafis2025/NetRecon/blob/main/docs/screenshots/asset-explorer.png` | `docs/screenshots/asset-explorer.png` |
 
 | Change Explorer | Risk Overview |
 |---|---|
