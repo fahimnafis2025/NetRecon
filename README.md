@@ -40,20 +40,17 @@ NetRecon is intentionally **detect-and-report only**. It does not exploit target
 
 ## Screenshots
 ### Command Center
-docs/screenshots/pics/command-center.png
+docs/screenshots/command-center.png
 
 ### Asset Explorer
-docs/screenshots/pics/asset-explorer.png
+docs/screenshots/asset-explorer.png
 
 ### Change Explorer
-docs/screenshots/pics/change-explorer.png
+docs/screenshots/change-explorer.png
 
 ### Risk Overview
-![Risk Overview](docs/screenshotsew.png
+docs/screenshots/risk-overview.png
 
-### Asset Timeline
-
-docs/screenshots/pics/timeline.png
 
 ## Features
 
